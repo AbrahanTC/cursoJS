@@ -1,6 +1,6 @@
 
 
-const heroes = ['batman', 'superman', 'mujer maravilla', 'aquaman'];
+const heroes = ['batman', 'superman', 'mujer maravilla', 'aquaman1'];
 
 console.warn( 'For');
 
